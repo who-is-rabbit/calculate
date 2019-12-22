@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/help"
+        android:title="Help"/>
+    <item
+        android:id="@+id/normal"
+        android:title="默认计算器"/>
+    <item
+        android:id="@+id/length"
+        android:title="长度转换"/>
+    <item
+        android:id="@+id/vol"
+        android:title="体积转换"/>
+    <item
+        android:id="@+id/bin"
+        android:title="进制转换"/>
+    <item
+        android:id="@+id/science"
+        android:title="科学计算器"/>
+    <item
+    android:id="@+id/quit"
+    android:title="Quit"/>
+</menu>
